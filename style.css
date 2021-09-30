@@ -1,0 +1,22 @@
+img {
+    height: 200px;
+}
+
+body {
+    text-align: center;
+    background-color: #F5555E;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white
+}
+
+.image-section {
+    display: flex;
+    justify-content: space-center;
+}
+div{
+    margin-top:15px;
+}
